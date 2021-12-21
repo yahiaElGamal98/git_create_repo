@@ -1,3 +1,5 @@
 This is the first Change after restore command 
 line 1 feature 1
 ----EOD----
+line 1 on test branch
+line 2 on test branch
