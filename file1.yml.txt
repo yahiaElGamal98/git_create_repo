@@ -1,6 +1,8 @@
 This is the first Change after restore command 
-line 1 feature 1
+
+line 1 feature 1 THIS IS AN EDIT TO CHANGE MASTER 2
 ----EOD----
 line 1 on test branch
 line 2 on test branch
 Line 3 on test branch after first push
+
